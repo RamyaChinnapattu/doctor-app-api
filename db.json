@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ramya",
+      "email": "patient@example.com",
+      "password": "123456",
+      "role": "patient"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sharma",
+      "email": "doctor@example.com",
+      "password": "abcdef",
+      "role": "doctor"
+    }
+  ],
+  "appointments": [],
+  "doctors": []
+}
